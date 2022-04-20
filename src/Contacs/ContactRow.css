@@ -1,0 +1,17 @@
+.contact_row {
+  display: flex;
+  padding: 10px;
+
+}
+
+.contact_row:hover {
+  background-color: lightgray;
+  border-radius: 19px;
+}
+
+.contact_row > h4 {
+  padding: inherit;
+  padding-left: 15px;
+  font-size: 110%;
+  font-family: Arial;
+}

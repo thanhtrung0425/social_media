@@ -1,0 +1,28 @@
+.contacts {
+  padding: 25px;
+  padding-right: 15px;
+  flex: 0.33;
+}
+
+.contacts_options {
+  display: flex;
+  
+}
+
+.contacts_options > h3 {
+  padding-right: 70px;
+  padding-left: 10px;
+}
+
+.contact_option > .MuiSvgIcon-root {
+  display: inline;
+  padding: 0px 9px;
+  align-items: center;
+}
+
+.contact_option:hover {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 999px;
+  align-items: center;
+  border-bottom: none;
+}
